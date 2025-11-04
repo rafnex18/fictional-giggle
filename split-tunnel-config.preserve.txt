@@ -1,0 +1,6 @@
+nhgZ2e0zB7dQHEPZtHcltM3b1JTmpbz1hl/GQhfAN04+5/2wETM6ljbFsFEh5WFHgvbZoYtIf+EfqVAKp0Xa8FIG1lKK+56SyNjYc75WiQgAlmd10KCi7eEQS1ReP5LSHi3m+8pusQIjWC1vzWikP4gygAna5ibOB5IDYw41uIp7wf22HQNYTbBZ5P/HLqfhF5f/NR0UucaShPrCD8byYdTzbt81d+zxw0uGrvRTY9bET9sYEQDlyv2SiWTV3KpdLEgL8Aa1fcSAC6vKsadegFqVueLxwFW9aXsVtq+WTlWOftrbcA5t2ppwdmSR/T/tjCruVir30pouVUOf/umjhA==
+		<exclude-split-tunneling-domain>
+			<member>*.facebook.com</member>
+			<member>*.yahoo.com</member>
+			<member>*.groq.com</member>
+		</exclude-split-tunneling-domain>
